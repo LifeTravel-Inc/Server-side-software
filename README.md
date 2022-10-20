@@ -9,8 +9,12 @@ LifeTravel, nuestra startup, tiene como objetivo tener un entorno mobile que le 
 
 # Miembros
 
-Luis Javier Ortiz Leigh (TeamLeader) 
-Luis Jesús Romero Castro
-Piero Tapia Montesinos
-Diego Casallo Mamani
-Renzo Herrera Castro
+-Luis Javier Ortiz Leigh (TeamLeader)
+
+-Luis Jesús Romero Castro
+
+-Piero Tapia Montesinos
+
+-Diego Casallo Mamani
+
+-Renzo Herrera Castro
