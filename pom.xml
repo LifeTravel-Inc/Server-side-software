@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pe.edu.upc</groupId>
-    <artifactId>upc-lifetravel-actividades</artifactId>
+    <artifactId>tf_lifetravel</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>upc-lifetravel-actividades</name>
-    <description>upc-lifetravel-actividades</description>
+    <name>tf_lifetravel</name>
+    <description>tf_lifetravel</description>
     <properties>
         <java.version>17</java.version>
     </properties>
